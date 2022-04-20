@@ -5,5 +5,5 @@ Watch my [Demo Videos](https://drive.google.com/drive/folders/1ncdnyeiBnR9KOdQBv
 
 ## Project Source Code
 * [Anagram](https://github.com/hank890808/MystanCodeProjects/blob/main/homework/SC101_Assignment5/anagram_ext.py)
-* [BabyNames]
-* [stanCodeshop]
+* [BabyNames]()
+* [stanCodeshop](https://github.com/hank890808/MystanCodeProjects/blob/main/homework/SC101_Assignment3/stanCodoshop.py)
